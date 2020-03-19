@@ -217,14 +217,14 @@ h1:hover{
       width: 100%;
       transform: translate(-50%, -70%);
       text-align: center;
-        top: 70%;
+        top: 450px;
   }
 
   .AllButton_2{
     padding: 0px auto;
     position: absolute;
     width: 100%;
-    top: 120%;
+    top: 950px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
