@@ -184,7 +184,7 @@ h1:hover{
 
 @media (max-width: 676px) {
   html{
-    background-image:url(../assets/bg5.jpg);
+    background-image:url(../assets/bg4.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
