@@ -217,6 +217,7 @@ h1:hover{
       width: 100%;
       transform: translate(-50%, -70%);
       text-align: center;
+        top: 70%;
   }
 
   .AllButton_2{
