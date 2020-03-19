@@ -9,5 +9,5 @@ function Users_Page(){
       window.location.href = "Users.html";
 }
 function HomePage_Page(){
-      window.location.href = "HomePage.html";
+      window.location.href = "index.html";
 }
